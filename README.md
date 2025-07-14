@@ -1,5 +1,8 @@
 # strings.sh: A POSIX Shell Reimplementation of the 'strings' Command
 
+[![Shellcheck](https://github.com/tclahr/strings.sh/actions/workflows/shellcheck.yaml/badge.svg)](https://github.com/tclahr/strings.sh/actions/workflows/shellcheck.yaml)
+[![GitHub License](https://img.shields.io/github/license/tclahr/strings.sh?color=blue)](https://github.com/tclahr/strings.sh/blob/main/LICENSE)
+
 A lightweight, portable, and POSIX-compliant shell script that extracts printable character sequences from any file. It serves as a simple, dependency-light alternative to the classic GNU/BSD `strings` utility, designed to run in minimal environments where `strings` may not be available.
 
 ## ✨ Key Features
