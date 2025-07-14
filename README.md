@@ -27,15 +27,15 @@ A lightweight, portable, and POSIX-compliant shell script that extracts printabl
 
 2. Make it executable:
 
-```bash
-chmod +x strings.sh
-```
+   ```bash
+   chmod +x strings.sh
+   ```
 
 3. (Optional) Move it to a directory in your PATH for system-wide access:
 
-```bash
-sudo mv strings.sh /usr/local/bin/
-```
+   ```bash
+   sudo mv strings.sh /usr/local/bin/
+   ```
 
 ## Usage
 
